@@ -1,4 +1,4 @@
-#PHPStorm Bug Reproduction
+# PHPStorm Bug Reproduction
 
 
 **WI-39689** 
